@@ -1,9 +1,8 @@
-import React from 'react';
 
 const BlogPage = () => {
     return (
         <div>
-            <h1>This is blog pages</h1>
+            <h1>This is blog page</h1>
         </div>
     );
 };
